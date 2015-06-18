@@ -1,0 +1,4 @@
+HCTFT_Touch	KEYWORD1
+Pressed	KEYWORD2
+ReadAxis	KEYWORD2
+GetCoord	KEYWORD2
